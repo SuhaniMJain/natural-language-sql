@@ -1,0 +1,1 @@
+"""SQL validator test placeholder."""

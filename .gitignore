@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyc
+.env
+.pytest_cache/
+.streamlit/secrets.toml
+
+# Ignore local SQLite databases but keep the intentional demo database.
+*.db
+*.sqlite
+*.sqlite3
+!data/database.db

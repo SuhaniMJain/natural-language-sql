@@ -1,0 +1,9 @@
+SQLAlchemy
+pandas
+google-genai
+python-dotenv
+fastapi
+uvicorn
+pydantic
+python-multipart
+streamlit
